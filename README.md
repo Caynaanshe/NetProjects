@@ -58,17 +58,7 @@ cd aws-networking-project
 - Open a browser and access the server:
 
 
-## Project Structure
-```plaintext
-aws-networking-project/
-├── cloudformation/
-│   └── main-template.yaml        # CloudFormation template
-├── docs/
-│   ├── architecture-diagram.png # Architecture diagram (optional)
-│   └── troubleshooting.md       # Notes on troubleshooting
-├── README.md                    # Project documentation
-└── LICENSE                      # License file (optional)
-```
+
 
 ---
 
