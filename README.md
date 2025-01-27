@@ -24,7 +24,7 @@ The project is designed to be scalable, secure, and cost-effective, leveraging A
 ---
 
 ## Architecture Diagram
-*(Optional: Add a link or embed your architecture diagram here)*
+![arhcitecture-diagram JPEG](https://github.com/user-attachments/assets/f42a9a26-52a7-4ec9-b3b2-099cb262b5d6)
 
 ---
 
